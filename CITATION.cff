@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this prototype, cite the repository URL and exact commit hash."
+title: "NELM: Never-Ending Learning Machine"
+authors:
+  - family-names: Dongare
+    given-names: Anurag
+version: 0.1.0
+repository-code: "https://github.com/Anurag1/NELM"
+license: MIT
